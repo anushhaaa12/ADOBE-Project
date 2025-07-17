@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Lunch Ideas.pdf",
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "Undergraduate Chemistry Student",
+    "job_to_be_done": "Identify key concepts and mechanisms for exam preparation on reaction kinetics",
+    "processing_timestamp": "2025-07-17T08:46:54.851408"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 8,
+      "section_title": "desired reaction.",
+      "importance_rank": 1
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 10,
+      "section_title": "Student Life",
+      "importance_rank": 2
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 3,
+      "section_title": "Key Attractions",
+      "importance_rank": 3
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 5,
+      "section_title": "Key Attractions",
+      "importance_rank": 4
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "page_number": 7,
+      "section_title": "Key Attractions",
+      "importance_rank": 5
+    }
+  ],
+  "sub_section_analysis": [
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "refined_text": "desired reaction.",
+      "page_number": 8
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Student Life",
+      "page_number": 10
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions",
+      "page_number": 3
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions",
+      "page_number": 5
+    },
+    {
+      "document": "South of France - Cities.pdf",
+      "refined_text": "Key Attractions",
+      "page_number": 7
+    }
+  ]
+}
